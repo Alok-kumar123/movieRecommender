@@ -1,5 +1,5 @@
-1 streamlit
-2 pandas
-3 pickle
-4 requests
-5 bz2
+streamlit
+pandas
+pickle
+requests
+bz2
